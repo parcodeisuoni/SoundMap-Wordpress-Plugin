@@ -51,7 +51,7 @@ function soundmap_save_public_upload(){
     $soundmark_mail = $uploader['email'];
     
     if ($title == "" && $soundmark_author != ""){
-        $title = $soundmark_author;
+        $title = $info['title'];
     }elseif ($title =="" && $soundmark_author ==""){
         $title = $info['fileName'];
     }
