@@ -3,6 +3,7 @@ SOUNDMAP FOR WORDPRESS
 
 Soundmap is a free plugin for implement soundmaps over a Wordpress site and the Google Maps Api.
 The plugin creates a new content type called Marker, wich represent the sound marks over the map.
+This fork updates behaviours and scripts to WP 3.6. For previous WP versions use original project
 
 
 Installation
